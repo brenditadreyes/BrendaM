@@ -10,4 +10,4 @@ git clone git@github.com:brenditadreyes/BrendaM
 
 ## Creadores
 
-* **Brenda María Duarte Reyes** - *Initial work* - [brenditadreyes](https://git$
+* **Brenda María Duarte Reyes** - *Initial work* - [brenditadreyes](https://github.com/brenditadreyes)
